@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import data from '../data';
+//import data from '../data';
 
 function ProductScreen() {
   const params = useParams();
@@ -7,11 +7,11 @@ function ProductScreen() {
   return (
     <div>
       <h1>{slug}</h1>
-      <div className="product-page">
+      {/* <div className="product-page">
         {data.products.map((product) => (
           <div className=""></div>
         ))}
-      </div>
+      </div> */}
     </div>
   );
 }
