@@ -11,10 +11,10 @@ function App() {
     <BrowserRouter>
       <div className="d-flex flex-column site-container">
         <header>
-          <Navbar bg="dark" variant="dark">
+          <Navbar className="nav-bar" bg="dark" variant="dark">
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>GameComplex</Navbar.Brand>
+                <Navbar.Brand className="branding">GameComplex</Navbar.Brand>
               </LinkContainer>
             </Container>
           </Navbar>
