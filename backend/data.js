@@ -1,12 +1,12 @@
 const data = {
   products: [
     {
-      name: 'PlayStation 5 Console',
+      name: 'PlayStation 5 Physical',
       slug: 'playstation5-console',
       category: 'Consoles',
       image: '/images/p5.jpg',
       price: 499,
-      countInStock: 40,
+      countInStock: 0,
       brand: 'Sony',
       rating: 4.8,
       numReviews: 45,
@@ -14,7 +14,7 @@ const data = {
         "PlayStation's latest and greatest console. Take a deep dive into new cinematic masterpieces fully equiped.",
     },
     {
-      name: 'Xbox Series X Console',
+      name: 'Xbox Series X',
       slug: 'xbox-seriesx-console',
       category: 'Consoles',
       image: '/images/xx.jpg',
@@ -27,7 +27,7 @@ const data = {
         "Xbox's latest generation of console. Unrivaled power gives you the power to fully immerse yourself in gameplay.",
     },
     {
-      name: 'Nintendo Switch Console',
+      name: 'Nintendo Switch',
       slug: 'nintendo-switch-console',
       category: 'Consoles',
       image: '/images/ns.jpg',
@@ -53,8 +53,8 @@ const data = {
         'The revolutionary DualShock Playstation 5 controllers feature haptic feedback and optimaly engineered ergonamic grips.',
     },
     {
-      name: 'Xbox Controller',
-      slug: 'xbox-controller',
+      name: 'Xbox One Controller',
+      slug: 'xbox-one-controller',
       category: 'Peripherals',
       image: '/images/xx_cont.jpg',
       price: 59,
