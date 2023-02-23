@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      //_id: '1',
       name: 'PlayStation 5 Physical',
       slug: 'playstation5-console',
       category: 'Consoles',
@@ -15,7 +15,7 @@ const data = {
         "PlayStation's latest and greatest console. Take a deep dive into new cinematic masterpieces fully equiped.",
     },
     {
-      _id: '2',
+      //_id: '2',
       name: 'Xbox Series X',
       slug: 'xbox-seriesx-console',
       category: 'Consoles',
@@ -29,7 +29,7 @@ const data = {
         "Xbox's latest generation of console. Unrivaled power gives you the power to fully immerse yourself in gameplay.",
     },
     {
-      _id: '3',
+      //_id: '3',
       name: 'Nintendo Switch',
       slug: 'nintendo-switch-console',
       category: 'Consoles',
@@ -43,7 +43,7 @@ const data = {
         "Fun at home and on the go! Play Nintendo's greatest hits either as a home console or in the Nintendo Switch's signature hand-held mode.",
     },
     {
-      _id: '4',
+      //_id: '4',
       name: 'PlayStation 5 DualSense Controller',
       slug: 'playstation-dualshock-controller',
       category: 'Peripherals',
@@ -57,7 +57,7 @@ const data = {
         'The revolutionary DualShock Playstation 5 controllers feature haptic feedback and optimaly engineered ergonamic grips.',
     },
     {
-      _id: '5',
+      //_id: '5',
       name: 'Xbox One Controller',
       slug: 'xbox-one-controller',
       category: 'Peripherals',
@@ -71,7 +71,7 @@ const data = {
         "Elevate your play with Xbox's greatest controller design. Auxilary components not included.",
     },
     {
-      _id: '6',
+      //_id: '6',
       name: 'Nintendo Switch Pro Controller',
       slug: 'nintendo-pro-controller',
       category: 'Peripherals',
