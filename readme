@@ -1,1 +1,15 @@
-Ecommerce Website using React and Node
+This repository ecompasses a fully functional ecommerce website, created with React and NodeJS.
+
+The purpose of this project is to demonstrate core competencies for frontend development;
+
+> General Web Design
+> React hooks
+> Routing
+> Cloud-based Data Retrival (MongoDB)
+
+Users are thus able to interact as they would in everyday ecommerce sites (amazon.com, newegg.ca, etc.);
+
+> Navigate List of products
+> Add products to a cart
+> User profile, order history, and account creation
+> Payment & shipping
