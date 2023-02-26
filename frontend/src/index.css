@@ -84,3 +84,7 @@ main {
   border-bottom: 0.2rem solid rgb(0, 123, 180);
   color: rgb(0, 123, 180);
 }
+
+.float {
+  display: inline-block;
+}
