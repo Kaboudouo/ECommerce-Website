@@ -50,7 +50,7 @@ export default function CartScreen() {
       <Row>
         <Col md={8}>
           {cartItems.length === 0 ? (
-            <MessageBox>
+            <MessageBox showImg>
               Your cart is empty. <Link to="/">Explore Products</Link>
             </MessageBox>
           ) : (

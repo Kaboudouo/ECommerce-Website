@@ -73,7 +73,9 @@ function ProductScreen() {
   return loading ? (
     <LoadingBox />
   ) : error ? (
-    <MessageBox variant="danger">{error}</MessageBox>
+    <MessageBox showImg variant="danger">
+      {error}
+    </MessageBox>
   ) : (
     <div>
       <Row>

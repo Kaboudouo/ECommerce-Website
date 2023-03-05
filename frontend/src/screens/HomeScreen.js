@@ -53,7 +53,9 @@ function HomeScreen() {
         {loading ? (
           <LoadingBox />
         ) : error ? (
-          <MessageBox variant="danger">{error}</MessageBox>
+          <MessageBox showImg variant="danger">
+            {error}
+          </MessageBox>
         ) : (
           <Row>
             {products.map((product) => (
