@@ -8,7 +8,7 @@ export default function MessageBox(props) {
       <img
         src={ErrorImg}
         width="400"
-        className="mt-5 rounded mx-auto d-block"
+        className="mt-5 rounded mw-100 mx-auto d-block"
         alt="404"
       />
     </div>
