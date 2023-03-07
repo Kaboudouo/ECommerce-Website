@@ -99,6 +99,33 @@ const data = {
       description:
         "Use Nintendo's new pro controller. Features motion sensors and haptic feedback.",
     },
+    {
+      //_id: '7',
+      name: 'Civilization 6 for Nintendo Switch',
+      slug: 'civ6-nintendo-switch',
+      category: 'Games',
+      image: '/images/civ6n.jpg',
+      price: 79,
+      countInStock: 130,
+      brand: 'Fraxis',
+      rating: 4.7,
+      numReviews: 89,
+      description: 'Build your empire and navigate the ages in Civilization 6.',
+    },
+    {
+      //_id: '8',
+      name: 'Overwatch 2 for Nintendo Switch',
+      slug: 'ow2-nintendo-switch',
+      category: 'Games',
+      image: '/images/ow2n.jpg',
+      price: 0,
+      countInStock: 840,
+      brand: 'Blizzard',
+      rating: 3.9,
+      numReviews: 240,
+      description:
+        "The world could always use more heroes. Join Overwatch's newest action-packed installment and make your name know.",
+    },
   ],
 };
 
