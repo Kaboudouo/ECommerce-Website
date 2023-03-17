@@ -1,8 +1,7 @@
 {
   "dependencies": {
     "dotenv": "^16.0.3",
-    "mongoose": "^6.9.3",
-    "use-reducer-logger": "^1.0.2"
+    "mongoose": "^6.9.3"
   },
   "name": "ecommerce-website",
   "description": "This repository ecompasses a MERN stack ecommerce website.",
