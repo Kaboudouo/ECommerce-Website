@@ -3,5 +3,25 @@
     "dotenv": "^16.0.3",
     "mongoose": "^6.9.3",
     "use-reducer-logger": "^1.0.2"
-  }
+  },
+  "name": "ecommerce-website",
+  "description": "This repository ecompasses a MERN stack ecommerce website.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaboudouo/ECommerce-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaboudouo/ECommerce-Website/issues"
+  },
+  "homepage": "https://github.com/Kaboudouo/ECommerce-Website#readme"
 }
