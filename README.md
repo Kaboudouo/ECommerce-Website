@@ -22,4 +22,5 @@ The purpose of this project is to demonstrate core competencies for frontend dev
 - Backend Networking
 - MongoDB Data Retrieval and Manipulation
 
-**You can find and explore the website for yourself at the following address:** [link text itself]: mern-gamecomplex.herokuapp.com/
+**You can find and explore the website for yourself at the following address:**
+[link text itself]: mern-gamecomplex.herokuapp.com/
