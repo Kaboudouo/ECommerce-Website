@@ -1,6 +1,6 @@
 # MERN GameComplex
 
-![Screenshot of the website's front-page.](https://github.com/Kaboudouo/MERN-Gamecomplex/tree/main/frontend/public/images/gamecomplex.PNG)
+![Screenshot of the website's front-page.](/frontend/public/images/gamecomplex.PNG)
 
 ## What is it?
 
