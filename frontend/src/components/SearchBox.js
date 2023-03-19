@@ -6,11 +6,11 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import FormControl from 'react-bootstrap/FormControl';
 
 export default function SearchBox() {
-  const navigate = useNavigate;
+  const navigate = useNavigate();
   const [query, setQuery] = useState('');
 
   const submitHandler = (e) => {
-    e.preventDefeault();
+    e.preventDefault();
     navigate(query ? `/search/?query=${query}` : '/search');
   };
 
@@ -29,7 +29,7 @@ export default function SearchBox() {
         <Button
           variant="outline-light border-primary"
           type="submit"
-          id="button_search"
+          id="button-search"
         >
           <i className="fas fa-search"></i>
         </Button>
